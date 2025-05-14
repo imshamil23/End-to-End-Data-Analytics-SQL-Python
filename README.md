@@ -19,6 +19,11 @@ A complete end-to-end data analytics project combining SQL and Python. This proj
 
 ## 📂 Project Structure
 
+📁 End-to-End-Data-Analytics-SQL-Python
+│
+├── 📓 End To End Data Analytics Projects ( SQL + Python ).ipynb
+└── README.md
+
 
 ## 📈 Outcomes
 
